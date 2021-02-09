@@ -6,7 +6,7 @@
     "commonjs",
     "requirejs"
   ],
-  "version": "0.5.3",
+  "version": "0.5.4",
   "homepage": "https://github.com/pylonide/dryice",
   "author": "Joe Walker <joe@getahead.org>",
   "contributors": [
@@ -28,6 +28,6 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "uglify-js": "^3.6.0"
+    "uglify-js": "^3.12.7"
   }
 }
