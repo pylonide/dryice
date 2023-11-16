@@ -30,5 +30,8 @@
   "license": "Apache-2.0",
   "dependencies": {
     "uglify-js": "^3.13.3"
+  },
+  "scripts": {
+    "test": "echo No Tests to run"
   }
 }
