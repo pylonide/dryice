@@ -6,11 +6,12 @@
     "commonjs",
     "requirejs"
   ],
-  "version": "0.5.5",
+  "version": "0.6.0",
   "homepage": "https://github.com/pylonide/dryice",
-  "author": "Joe Walker <joe@getahead.org>",
+  "author": "Sten Feldman <exile@chamber.ee>",
   "contributors": [
-    "Sten Feldman <exile@chamber.ee> (http://sten.feldman.eesti.ee/)"
+    "Joe Walker <joe@getahead.org>",
+    "Sten Feldman <exile@chamber.ee> (https://sten.pw/)"
   ],
   "repository": {
     "type": "git",
@@ -24,7 +25,7 @@
   },
   "main": "./lib/dryice/index.js",
   "engines": {
-    "node": ">= 12.22.1"
+    "node": ">= 18.18.2"
   },
   "license": "Apache-2.0",
   "dependencies": {
