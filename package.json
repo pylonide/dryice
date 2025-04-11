@@ -6,7 +6,7 @@
     "commonjs",
     "requirejs"
   ],
-  "version": "0.6.0",
+  "version": "0.7.0",
   "homepage": "https://github.com/pylonide/dryice",
   "author": "Sten Feldman <exile@chamber.ee>",
   "contributors": [
@@ -25,7 +25,7 @@
   },
   "main": "./lib/dryice/index.js",
   "engines": {
-    "node": ">= 18.18.2"
+    "node": ">= 20.19.0"
   },
   "license": "Apache-2.0",
   "dependencies": {
